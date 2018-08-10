@@ -1,9 +1,10 @@
 # devops-aula02
 # devops-aula02
-#Will Smith
-#Johnni Deep
-#Wagner Moura
+# Will Smith
+# Alicia Keys
+# Wagner Moura
 
-#Gloria Pires
-#Alicia Silvertoner
-#Jennifer Aniston
+# Gloria Pires
+# Alicia Silvertoner
+# Jennifer Aniston
+# Marina Rui Barbosa
